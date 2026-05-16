@@ -9,7 +9,7 @@ Modern technical recruitment suffers from two major flaws:
 1. **Unconscious Bias:** Names, genders, dates, and geographic locations on resumes frequently introduce human bias early in the hiring process.
 2. **Data Vulnerability:** Companies want verified proof of talent, but storing raw, unencrypted candidate credentials on public databases introduces massive data-leak liabilities.
 
-## 🚀 Our Solution
+## 🚀 Solution
 
 **ShieldHire AI** completely decouples a candidate's real identity from their raw engineering merit.
 
